@@ -1,0 +1,2 @@
+# htdocs
+magento htdocs
